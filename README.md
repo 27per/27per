@@ -11,7 +11,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=27per&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<img src="https://raw.githubusercontent.com/27per/github-stats-transparent/output/generated/languages.svg" width="45%" /> <img src="https://raw.githubusercontent.com/27per/github-stats-transparent/output/generated/overview.svg" width="45%" />
+<img src="https://raw.githubusercontent.com/27per/github-stats-transparent/output/generated/languages.svg" width="49%" /> <img src="https://raw.githubusercontent.com/27per/github-stats-transparent/output/generated/overview.svg" width="50%" />
 
 
 <!--
