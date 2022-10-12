@@ -4,7 +4,7 @@
 ===
 27% are currently studying their digital friend Cannedbi. Cannedbi is a digital pet project using P2E NFT games and mobile DAPP. We are making your best friend Cannedbi and look forward to connecting with you through Cannedbi.
 
-- Getting to know Cannedbi - a television project.
+- Getting to know Cannedbi - Telly project.
    
       
          
